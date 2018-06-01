@@ -1,0 +1,13 @@
+inheitance- has-A relation example
+
+You have to make a program to manage students and courses of your department.
+Generally, marks distribution for a course includes continuous assessment, 
+mid-term and final examination. Moreover, presentation is only included in
+theory courses and lab test is only included in lab courses. Besides, 
+a student has attributes including student id, name and course information that the student has taken. 10
+a) Make required class with necessary attributes and methods using interfave and Inheritance
+b) Ensure proper Encapsulation to design your classes to answer question (a).
+c) Make a way for a student to print id, name & course information.
+d) Calculate gpa for each subject and also calculate cgpa for multiple students. 
+e) Write the main method in a separate Main class to create objects
+ of each of the classes and demonstrate their behaviors.
