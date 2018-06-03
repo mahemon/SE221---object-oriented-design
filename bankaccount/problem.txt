@@ -1,0 +1,12 @@
+You have hires to design and develop a Bank management system. 
+For the first version of system, you are required to store the information of 
+all account-holder, manager and accountant. For hard copy book must be store
+ account-holder name, current balance, deposit, withdraw, interest and loan.
+ If account-holder balance more than 500 then they will be given a loan. 
+Every account-holder getting 10% interest. Account-holder account id must
+ be auto generate. For manager and accountant you must store their name, age, salary.
+ Every employee fixed salary 8000/-. Manager get salary-fixed salary+manager
+ bonus(it count from all account-holder balance*0.07)+manager honorable salary 
+and accountant get salary-fixed salary +accountant bonus(it count from all 
+account-holder balance *0.03)+accountant honorable salary. In eid time,
+they will also get eid bonus. 
