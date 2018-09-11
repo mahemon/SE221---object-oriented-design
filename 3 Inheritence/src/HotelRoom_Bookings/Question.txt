@@ -1,0 +1,21 @@
+assume that, you are assigned to develop a program to manage allotment of rooms for a Hotel.
+There are three basic room categories for a hotel: standard, family room and the suit.
+They are classified by the number of beds in them, the size and the facilities that they offer
+and their rates vary accordingly. Along with these information, all hotel rooms have room number
+and customer info who has rented the room [customer info is initially null, if customer rents the room then his 
+is assigned to it].
+The standard room with a single bed and has the basic facilities, usually a television & telephone.
+Family rooms with a double bed and with the basic facilities it offers couch for sitting. Besides, the couch can be turned into a bed.
+It also provide air condition in the room. 
+A suit is like a small apartment inside the hotel. Also called a deluxe room, the suit is much larger 
+than a standard. It has bedrooms, living area, may have a kitchenette. With multiple
+double/ single bed and air condition in the room.
+When a customer comes to rent rooms, he has to give his name, email & address. Then, an id is assigned to him
+and rooms are allocated by his id.
+
+1. Make required class with necessary attributes and methods using Inheritance.
+2. Ensure proper Encapsulation to develop your classes to answer question.
+3. Make provision/ mechanism to rent hotel room for customers.
+
+Make a main class with main method to initialize objects of required classes and show all relevant
+information of customer of each type of room.

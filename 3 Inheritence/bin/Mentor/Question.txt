@@ -1,0 +1,18 @@
+Suppose, you are employed as the IT Officer of Daffodil International University (DIU). The authority of DU
+has assigned you to a project named "Mentor management System.". In this system, an adviser can monitor the
+progress of the students. All the advisers and the students have some common attributes like id, name, contact_no.
+Besides, advisor has one additional attribute named no_of_students. Similarly, the students have some 
+additional attribute named cgpa, payable and paid. Each adviser can advise maximum 40 students.
+The adviser has a list of students from which he can access all the attributes of this students.
+
+1. Design each class with proper attributes. Implement teh classes considering data hiding and maximum
+   code re-usability.
+2. Write a method named AddStudent() for the adviser so that the students could be assigned under his advising.
+3. Write a method named ShowDue() for the adviser so that any students due could be calculated and printed.
+   Use payable and paid attributes for calculating the due.
+4. Write a method named ShowLowCGPA() for the adviser so that the Ids of the students having cgpa lower than
+   3.0 could be printed.
+5. Write a method named ShowAbsentNames() for the adviser so that the names of the absent (more than 10 days)
+   students could be printed.
+6. From the main class create instance for the following students and adviser. Also, demonstrate the behavior of 
+   the class.    

@@ -1,0 +1,17 @@
+Suppose, you have to develop software for the manager of a Tourism Management Company named "Berate-jai.com".
+Here, the company offers different types of tour packages. All tour packages have some common attributes such as package-id, packga-name
+and seat-capacity.(A package have maximum 10 seat- capacity).But , the summer packages have one more attribute
+named month (for which the value will e either "January" or "June"). And, the winter packages have an attribute season (for which 
+the value will be either "New year" or "Xmas"). Travelers can buy any number of packages and total price will be calculated accordingly.
+While calculating the total price , 10% discount will be given to the registered travelers. On the other hand,
+non registered customers will no get any discount. A traveler can buy any number of packages until the seat capacity is not full. 
+Total price will be calculated by multiplying the number of packages with per package price.
+Now, write the code to develop the application. Before writing the code you have to consider the following conditions
+strictly.
+
+1. Design each class with proper attributes. Implement the classes considering data hiding and maximum code re-usability. 
+2. Write a method for registered travelers so that they can buy two summer packages.
+   Also, calculate the total price and print it.
+3. Write a method for non registered travelers so that they can buy ten winter packages. 
+   Also, calculate the total price and print it.
+4. From the main class, create instances and demonstrate the behaviors of the classes.   

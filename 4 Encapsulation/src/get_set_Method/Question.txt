@@ -1,0 +1,8 @@
+Let you are hired to create a software for a bank. For their first version you are required to store
+account holder information where you need to store account holder name, national id, address, bank account id,
+initial amount of money. Account holder can deposit money and withdraw money. But to withdraw money 
+account holder needs to have more than 100 balance in his account. If the balance is more than 100000,
+then bank will give him 2% interest of his main balance, else he will get 1% interest of his main balance.  
+
+1. Now write necessary classes and methods.
+2. Calculate monthly interest and yearly interest. 
