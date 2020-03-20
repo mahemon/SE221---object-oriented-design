@@ -1,4 +1,4 @@
-SE--object-oriented-design
+SE221--object-oriented-design
 
 This is a repository of basic java programs collection.
 
